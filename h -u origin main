@@ -1,0 +1,17 @@
+[33mcommit 521cf4c9f30ed60b510edef3cfa877c4ed780e1e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ShaoBowen9 <bowenshao.w@gmail.com>
+Date:   Mon Apr 14 17:44:05 2025 -0400
+
+    Finished Auth Pages' UI
+
+[33mcommit 6985b73d019f6a96c3b196b4945422b581bfa45d[m
+Author: ShaoBowen9 <bowenshao.w@gmail.com>
+Date:   Mon Apr 14 17:10:08 2025 -0400
+
+    Added link to switch between sign in and sign up
+
+[33mcommit 647b98ba774abaecfe1720fd1f35f472a7d390e2[m
+Author: ShaoBowen9 <bowenshao.w@gmail.com>
+Date:   Sun Apr 6 10:20:15 2025 -0400
+
+    Project Setup
